@@ -1,9 +1,9 @@
 import venusian
 from wired import ServiceRegistry
 
-from fortytwo import models
+from workshop_master.fortytwo import models
 # noinspection PyUnresolvedReferences
-from fortytwo.models import Greeter
+from workshop_master.fortytwo.models import Greeter
 
 
 class App:

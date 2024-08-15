@@ -18,7 +18,7 @@ Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 """
 
-from fortytwo import App, Greeter
+from workshop_master.fortytwo import App, Greeter
 
 
 def main():
