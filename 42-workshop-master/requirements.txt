@@ -1,0 +1,6 @@
+-e .
+dataclasses
+venusian
+pytest
+coverage
+wired
