@@ -1,0 +1,46 @@
+Please help me prepare a script for my video presentation on my resume .
+
+i wanted to used the connecting the dot theme by steve jobs story telling. i will provide you the content for the story and please create a script based on that.
+
+also do include opening , body, clossing and this duration is around 3 min.
+
+Point of view
+============
+i love much in doing IT but due to high unemployeed rate in this sector. i deceide to change my major to business and finance
+Study in universiti teknologi mara major in Finance.
+Intern at on of malaysia GLC "Petronas lubricant"
+after that move back to north region as near to my hometown and to look out for my single mom.
+
+receive an inviation to join citigroup and accepted it and begin my 1st carrer journey. 
+and got married with one of the collugue.
+
+after 3 years as fresh grade, i moved to Thomson Reuters company as i got an offer do screening job
+in here i can see there are lot of improvement that can be done to save time in processing.
+start suggesting and implement the automation process from VBA code that i do to the team and it save 1000+ hours per year for the whole team
+
+After that, i got an offer from the Director of the PMT team to join their team and provide automation support to the whole team as inhouse developer.
+(first dot connected) i became a junior sofware developer for 3 years in here and did complete bunch of project automation using Saleforce as CRM and also received my 1st certificate in salesforce as platform app builder.
+
+Now i been pulled into one of the TECH Team in LSEG to do much more insterting project, remote working, and automation using python as coding and also been able to use LLM for our project and not limit to only salesforce.
+
+i love what im doing now and all these journey bring me to where i wanted to be today
+
+Opening:
+
+"Hello everyone, my name is [Your Name], and today I'd like to share my journey with you, a journey that has been all about connecting the dots. As Steve Jobs once said, 'You can't connect the dots looking forward; you can only connect them looking backwards.' So, let's take a look back at how the dots in my life have connected to bring me to where I am today."
+
+Body:
+
+"My story begins with my major in Finance. During my studies, I had the opportunity to intern at one of Malaysia's GLCs, Petronas Lubricant. This experience was invaluable, but soon after, I decided to move back to the northern region to be closer to my hometown and to look after my single mom.
+
+It was during this time that I received an invitation to join Citigroup. I accepted and began my first career journey there. It was also where I met my future spouse, one of my colleagues. After three years as a fresh graduate, I moved to Thomson Reuters, where I was offered a screening job.
+
+At Thomson Reuters, I saw many opportunities for improvement in our processes. I started suggesting and implementing automation processes using VBA code, which ended up saving the team over 1,000 hours per year. This was a significant achievement and a turning point in my career.
+
+Following this, I received an offer from the Director of the PMT team to join them as an in-house developer, providing automation support. This was the first dot connected, as I transitioned into a junior software developer role. Over the next three years, I completed numerous automation projects using Salesforce as our CRM and earned my first Salesforce certification as a Platform App Builder.
+
+Now, I have been pulled into one of the TECH Teams at LSEG, where I work on even more interesting projects. I am involved in remote working, automation using Python, and leveraging large language models for our projects, not limited to just Salesforce.
+
+Closing:
+
+Looking back, I can see how each experience, each decision, has connected to bring me to where I am today. I love what I do now, and I am grateful for every step of this journey. As Steve Jobs said, 'You have to trust that the dots will somehow connect in your future.' And indeed, they have. Thank you for listening to my story."
